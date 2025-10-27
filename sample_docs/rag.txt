@@ -1,0 +1,1 @@
+RAG combines retrieval and generation. It retrieves relevant documents and uses them to generate better responses.

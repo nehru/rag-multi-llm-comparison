@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# MLflow
+mlruns/
+mlruns.db
+mlartifacts/
+
+# Experiment artifacts (auto-generated)
+*_answer.txt
+experiment_results.json
+
+# Vector Store (regenerated)
+vectorstore/
+
+# Logs
+*.log
+logs/
+
+# Docker
+.dockerignore
+
+# Grafana runtime
+grafana/data/
+
+# Prometheus
+prometheus-data/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+
+# Sample outputs (optional - keep if you want examples)
+# *.png
+# *.jpg

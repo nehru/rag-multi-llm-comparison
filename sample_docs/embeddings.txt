@@ -1,0 +1,1 @@
+Vector embeddings are numerical representations of text that capture semantic meaning.
