@@ -477,42 +477,6 @@ Contributions welcome! Please:
 4. Push to the branch
 5. Open a Pull Request
 
-
-##  Acknowledgments
-
-- Anthropic's Claude for architecture guidance
-- Ollama team for local LLM runtime
-- LangChain community for RAG frameworks
-- Grafana Labs for visualization tools
-
-##  Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-
-##  Resume Bullet Point
-```
-Engineered a production-ready RAG system with multi-LLM comparison using LangChain, 
-FAISS vector store, and FastAPI, implementing parallel inference across 5+ models 
-with MLflow experiment tracking and Grafana monitoring, achieving 40% speedup through 
-concurrent execution on RTX 5090 hardware.
-```
-
-Alternative:
-```
-Built a semantic search system with vector embeddings (FAISS + nomic-embed-text) 
-enabling side-by-side comparison of 5+ locally-deployed LLMs for retrieval-augmented 
-generation on technical documents, integrated with FastAPI, MLflow, and Prometheus 
-for production monitoring.
-```
-
-##  Star History
-
-If this project helped you, please star it on GitHub!
-
----
-
 # Stop containers
 docker-compose down
 
